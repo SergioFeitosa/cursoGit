@@ -5,7 +5,7 @@ public class Person
     // Constructor that takes no arguments:
     public Person()
     {
-        Name = "unknown numero 2";
+        Name = "unknown";
     }
 
     // Constructor that takes one argument:
